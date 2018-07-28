@@ -1,0 +1,54 @@
+{"details":{
+  "image":"image.jpg",
+  "name":"Pujitha",
+  "phoneno":"+91-9669699669",
+  "email":"pujithatammina0116@gmail.com",
+  "address":"bvpm,vijayawada"
+},
+"career":{
+  "info":"To pursue a challenging career and to be a part of progressive organisation that gives a scope to enhance my knowlegde and utilizing my skills"
+},
+"education":[
+{
+  "qualification":"B.Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Narayaana jr college",
+  "year":"2014-2016",
+  "percentage":"95.5%"
+},
+{
+  "qualification":"SSC",
+  "institute":"Narayaana etectno school",
+  "year":"2013-2014",
+  "percentage":"90%"
+}],
+"skills":[
+  {
+  "title":"Programming language",
+  "info":["C,C++,Java,R,Python"]
+  },
+  {
+    "title":"Databases",
+    "info":["oracle,sql,mysql,Tinydb"]
+  },
+{
+  "title":"Operating Systems",
+  "info":["windows,Linux,ubuntu,Dos"]
+}
+],
+"Achievements":[{
+  "info":"I got award in coding"
+},
+{
+  "info":"best in ppt presentation"
+},
+{
+  "info":"I actieved best student award"
+}
+]
+}
